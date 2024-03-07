@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Gwayi</h1>
 <h3 align="center">Power BI Data Analyst & Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.formuspro.com/wp-content/uploads/PowerBI-Advanced-Analytics.gif">
 
 - 🔭 I’m currently working on [Coffee Shop Revenue Dashboard](https://github.com/BrianGwayi/CoffeeShopRevenue-PowerBI)
 
